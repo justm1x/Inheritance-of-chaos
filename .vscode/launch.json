@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Inheritance of Chaos",
+            "request": "launch",
+            "mainClass": "com.inheritanceofchaos.Main",
+            "projectName": "inheritance-of-chaos"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+target/
+out/
+bin/
+.idea/
+*.iml
+.vscode/*
+!.vscode/launch.json
+*.class
+*.db
+*.log
